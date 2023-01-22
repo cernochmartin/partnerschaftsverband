@@ -10,7 +10,6 @@
 body {
   height: 1080px;
   background-color: #5A21DF;
-  background-image: url('/background/01.svg');
 }
 
 .light-blue-text {
@@ -39,25 +38,4 @@ nav {
 
 a {
   text-decoration: none;
-}
-
-header {
-  margin-top: 100px;
-}
-
-h2 {
-  font-size: 48px;
-}
-
-p {
-  font-size: 24px;
-}
-
-.flex-column {
-  display: flex;
-  flex-direction: column;
-}
-
-.text-box {
-  width: 600px;
 }
