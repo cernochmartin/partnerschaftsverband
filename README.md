@@ -1,0 +1,3 @@
+# Quartett
+
+## School competition project
