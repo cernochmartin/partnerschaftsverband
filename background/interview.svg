@@ -1,6 +1,5 @@
 <svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="1920" height="1080" fill="#1E1E1E"/>
-<g clip-path="url(#clip0_0_1)">
+<g clip-path="url(#clip0_0_3)">
 <rect y="774" width="550" height="306" fill="#3EFAFA"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M134.409 724.205H134L134 824.205H234V823.795L134.409 724.205Z" fill="white"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M1584 444.409V444L1484 444V544H1484.41L1584 444.409Z" fill="white"/>
@@ -14,7 +13,7 @@
 <rect x="1718" y="672" width="20" height="20" rx="10" fill="#3EFAFA"/>
 <rect x="1781" y="640" width="20" height="20" rx="10" fill="#3EFAFA"/>
 <rect x="1750" y="640" width="20" height="20" rx="10" fill="#3EFAFA"/>
-<g clip-path="url(#clip1_0_1)">
+<g clip-path="url(#clip1_0_3)">
 <path d="M1467.06 729.497L1437.45 732.716L1423.28 723.058L1415.08 732.716L1419.02 753.096L1423.52 769.193L1450.85 755.313L1472.86 753.321L1467.06 729.497Z" fill="#A0616A"/>
 <path d="M1617.09 695.371L1545.62 694.084L1458.69 730.785L1470.28 755.896L1548.84 734.004L1670.53 768.774L1653.79 686.357L1617.09 695.371Z" fill="#2F2E41"/>
 <path d="M1421.05 731.844L1435.26 730.739L1417.19 692.568C1417.19 692.568 1408.82 689.612 1407.53 698.816C1406.24 708.021 1417.23 770.344 1420.45 770.344C1423.67 770.344 1434.47 764.042 1434.47 764.042L1418.48 733.776L1421.05 731.844Z" fill="#2F2E41"/>
@@ -52,7 +51,7 @@
 <rect x="1833" y="337" width="20" height="20" rx="10" fill="white"/>
 <rect x="1802" y="337" width="20" height="20" rx="10" fill="white"/>
 <rect x="405" y="364" width="21" height="716" fill="white"/>
-<g clip-path="url(#clip2_0_1)">
+<g clip-path="url(#clip2_0_3)">
 <path d="M1355.52 926.915L1352.8 948.533L1346.06 1002.23H1210.65C1211.7 990.194 1213.15 972.871 1214.69 954.171C1214.85 952.304 1215.01 950.424 1215.16 948.533C1219.03 901.526 1223.27 848.332 1223.27 848.332L1241.07 851.648L1275.61 858.068L1289.69 860.682L1327.37 867.698C1346.17 871.188 1359.09 898.386 1355.52 926.915Z" fill="#F2F2F2"/>
 <path d="M1253.09 761.346L1269.74 790.475L1237.74 813.149L1224.08 777.343L1253.09 761.346Z" fill="#FFB6B6"/>
 <path d="M1231.89 788.903C1254.67 788.903 1273.14 770.44 1273.14 747.665C1273.14 724.89 1254.67 706.428 1231.89 706.428C1209.11 706.428 1190.64 724.89 1190.64 747.665C1190.64 770.44 1209.11 788.903 1231.89 788.903Z" fill="#FFB6B6"/>
@@ -93,13 +92,13 @@
 </g>
 </g>
 <defs>
-<clipPath id="clip0_0_1">
+<clipPath id="clip0_0_3">
 <rect width="1920" height="1080" fill="white"/>
 </clipPath>
-<clipPath id="clip1_0_1">
+<clipPath id="clip1_0_3">
 <rect width="524.67" height="392.996" fill="white" transform="translate(1321 432)"/>
 </clipPath>
-<clipPath id="clip2_0_1">
+<clipPath id="clip2_0_3">
 <rect width="867" height="443" fill="white" transform="translate(527 682)"/>
 </clipPath>
 </defs>
