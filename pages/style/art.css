@@ -10,6 +10,7 @@
 body {
   height: 1080px;
   background-color: #5A21DF;
+  background-image: url('/background/02.svg');
 }
 
 .light-blue-text {
@@ -38,4 +39,14 @@ nav {
 
 a {
   text-decoration: none;
+}
+
+p {
+  font-size: 24px;
+}
+
+.text-box {
+  padding-top: 72px;
+  padding-left:47%;
+  width: 900px;
 }
