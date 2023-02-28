@@ -10,7 +10,7 @@
 body {
   height: 1080px;
   background-color: #5A21DF;
-  background-image: url('/background/01.svg');
+  background-image: url('01.svg');
 }
 
 .light-blue-text {

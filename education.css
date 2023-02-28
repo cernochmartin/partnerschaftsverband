@@ -10,7 +10,7 @@
 body {
   height: 1080px;
   background-color: #5A21DF;
-  background-image: url('/background/02.svg');
+  background-image: url('03.svg');
 }
 
 .light-blue-text {
@@ -46,7 +46,7 @@ p {
 }
 
 .text-box {
-  padding-top: 72px;
-  padding-left:47%;
-  width: 900px;
+  padding-top: 32px;
+  padding-left: 12%;
+  width: 1380px;
 }

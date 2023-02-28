@@ -10,7 +10,7 @@
 body {
   height: 1080px;
   background-color: #5A21DF;
-  background-image: url('/background/03.svg');
+  background-image: url('interview.svg');
 }
 
 .light-blue-text {
@@ -39,14 +39,4 @@ nav {
 
 a {
   text-decoration: none;
-}
-
-p {
-  font-size: 24px;
-}
-
-.text-box {
-  padding-top: 32px;
-  padding-left: 12%;
-  width: 1380px;
 }
