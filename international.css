@@ -39,3 +39,8 @@ nav {
 a {
   text-decoration: none;
 }
+
+a:hover {
+  color: #3EFAFA;
+  transition: 1s;
+}
