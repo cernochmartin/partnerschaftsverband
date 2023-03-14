@@ -43,6 +43,7 @@ a {
 
 a:hover {
   transition: 1s;
+  color:#5A21DF;
 }
 
 p {
@@ -87,7 +88,6 @@ p {
 
 .dropbtn:hover {
   background-color: #fff;
-  color:#5A21DF;
   transition: 1s;
   border-radius: 1rem;
 }
