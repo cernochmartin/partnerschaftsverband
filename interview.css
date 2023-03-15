@@ -43,7 +43,6 @@ a {
 
 a:hover {
   transition: 1s;
-  color:#5A21DF;
 }
 
 .dropbtn {
@@ -52,6 +51,12 @@ a:hover {
   color: white;
   padding: 16px;
   border: none;
+}
+
+.dropbtn:hover {
+  background-color: #fff;
+  color:#5A21DF;
+  border-radius: 1rem;
 }
 
 .dropdown {
