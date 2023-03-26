@@ -62,6 +62,7 @@ p {
   color: white;
   padding: 16px;
   border: none;
+  display: block;
 }
 
 .dropdown {
