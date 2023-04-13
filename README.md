@@ -1,3 +1,8 @@
-# Quartett
+# Partnerschaftsverband international competition project
 
-## School competition project
+## Built with
+
+```
+HTML5
+CSS3
+```
